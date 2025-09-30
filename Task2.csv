@@ -1,0 +1,51 @@
+OrderID,Region,Category,Sales,Profit,Customer
+1,East,Office Supplies,819,259,Neha
+2,West,Technology,848,113,Keshav
+3,North,Office Supplies,437,-66,Ridhima
+4,East,Office Supplies,978,126,Neha
+5,East,Furniture,152,0,Apurva
+6,West,Office Supplies,891,30,Apurva
+7,North,Furniture,316,156,Apurva
+8,North,Office Supplies,863,-96,Apurva
+9,East,Office Supplies,287,117,Keshav
+10,South,Furniture,479,154,Apurva
+11,East,Furniture,592,297,Neha
+12,East,Office Supplies,140,258,Arjun
+13,East,Technology,256,182,Apurva
+14,East,Furniture,114,292,Keshav
+15,West,Technology,912,106,Keshav
+16,North,Technology,164,-86,Apurva
+17,West,Technology,956,245,Arjun
+18,West,Furniture,938,-59,Apurva
+19,West,Technology,620,279,Keshav
+20,East,Furniture,443,78,Ridhima
+21,South,Technology,228,-38,Neha
+22,North,Office Supplies,747,251,Keshav
+23,South,Office Supplies,571,130,Apurva
+24,West,Furniture,162,140,Neha
+25,West,Office Supplies,238,-49,Apurva
+26,South,Office Supplies,598,-5,Apurva
+27,South,Technology,692,287,Ridhima
+28,South,Furniture,491,121,Neha
+29,West,Technology,774,130,Neha
+30,West,Technology,518,136,Ridhima
+31,North,Technology,388,42,Keshav
+32,North,Technology,478,70,Apurva
+33,West,Technology,872,-72,Arjun
+34,South,Technology,589,-65,Apurva
+35,South,Technology,330,-88,Apurva
+36,North,Furniture,140,59,Keshav
+37,West,Office Supplies,127,226,Apurva
+38,North,Technology,234,86,Ridhima
+39,North,Technology,300,142,Ridhima
+40,East,Technology,939,-15,Neha
+41,East,Technology,879,183,Arjun
+42,East,Technology,132,-35,Apurva
+43,South,Technology,147,69,Apurva
+44,West,Office Supplies,602,-56,Keshav
+45,West,Office Supplies,506,-39,Ridhima
+46,West,Technology,673,33,Arjun
+47,West,Office Supplies,827,183,Neha
+48,East,Furniture,904,-73,Ridhima
+49,South,Technology,198,7,Neha
+50,South,Furniture,783,-57,Keshav
